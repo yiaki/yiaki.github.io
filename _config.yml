@@ -1,11 +1,11 @@
 # Site settings
-title: Creative - Start Bootstrap theme
+title: YIAKI.JP
 tagline: Your Favorite Source of Free Bootstrap Themes
 author: 
 first_button_text: 'Find out more'
 first_button_url: '#about'
 header_img: /img/header.jpg
-home_menu_text: Start Bootstrap
+home_menu_text: YIAKI.JP
 description: Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
