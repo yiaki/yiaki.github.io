@@ -1,12 +1,12 @@
 # Site settings
 title: YIAKI.JP
-tagline: Your Favorite Source of Free Bootstrap Themes
+tagline: "広く、見る。"
 author: 
 first_button_text: 'Find out more'
 first_button_url: '#about'
 header_img: /img/header.jpg
 home_menu_text: YIAKI.JP
-description: Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!
+description: "文案1"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
@@ -15,11 +15,11 @@ primary: '#F05F40'
 dark: '#222'
 
 # Contact details
-email: 
+email: info@yiaki.jp
 telephone_number: 
 whatsapp_number: 
-twitter_username: 
-github_username: volny
+twitter_username:
+github_username:
 instagram_username: 
 facebook_username: 
 linkedin_username: 
@@ -28,8 +28,8 @@ linkedin_username:
 collections:
   blocks:
     output: false
-  gallery:
-    output: false
+  # gallery:
+  #   output: false
 
 # Build settings
 markdown: kramdown
