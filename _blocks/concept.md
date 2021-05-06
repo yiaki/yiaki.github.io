@@ -1,5 +1,5 @@
 ---
-name: about
+name: concept
 type: primary
 title: CONCEPT
 button_text: スタート!

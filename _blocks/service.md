@@ -1,5 +1,5 @@
 ---
-name: project
+name: service
 type: light
 title: SERVICE
 button_text: # Blank means no button

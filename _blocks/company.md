@@ -1,5 +1,5 @@
 ---
-name: portfolio
+name: company
 type: gallery
 menu_text:  # If left blank this defaults to the id
 menu_exclude: false
